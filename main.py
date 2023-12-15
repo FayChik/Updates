@@ -1,2 +1,2 @@
-current_version = '1.2'
+current_version = '1.1'
 print(2*3)
