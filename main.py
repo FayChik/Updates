@@ -1,7 +1,7 @@
 from pyupdater.client import Client
 from client_config import ClientConfig
 
-APP_NAME = 'Super App'
+APP_NAME = 'MyApp'
 APP_VERSION = '1.2.0'
 
 ASSET_NAME = 'ffmpeg'
