@@ -1,4 +1,4 @@
-current_version = '1.1.1'
+current_version = '1.2.2'
 
 import requests
 
