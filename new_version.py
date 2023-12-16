@@ -1,6 +1,6 @@
 import requests
 
-
+print(2, 3)
 def download_update(url, file_path, github_version):
     response = requests.get(url)
     if response.status_code == 200:
