@@ -1,3 +1,5 @@
+current_version = '3b6405d1b81cbbcad343907492529c6cb93d5725'
+
 import requests
 
 
