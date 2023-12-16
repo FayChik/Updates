@@ -48,5 +48,4 @@ def check_for_updates(repo_owner, repo_name, file_path, current_version):
 repo_owner = "FayChik"
 repo_name = "Updates"
 file_path = "main.py"
-current_version = "d97338cd2e637e6aca1bec2c8c08138126230622"
 check_for_updates(repo_owner, repo_name, file_path, current_version)
