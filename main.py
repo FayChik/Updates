@@ -1,4 +1,4 @@
-current_version = '3b6405d1b81cbbcad343907492529c6cb93d5725'
+current_version = '1.1.1'
 
 import requests
 
